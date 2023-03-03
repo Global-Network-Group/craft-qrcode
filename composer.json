@@ -23,7 +23,7 @@
 	],
 	"require": {
 		"craftcms/cms": "^3.0.0-RC1",
-		"endroid/qr-code": "^3.5"
+		"endroid/qr-code": "^3.9"
 	},
 	"autoload": {
 		"psr-4": {
